@@ -1,0 +1,179 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: aliceblue;
+}
+.continar{
+  max-width: 800px;
+  background-color: antiquewhite;
+  margin: 0px auto;
+  padding:50px;
+}
+header{
+  
+}
+.profile-image{
+  width: 190px;
+  height: 180px;
+  border: 2px solid pink;
+  border-radius: 200px;
+  float: left;
+}
+.header-boy{
+  float: left;
+  padding: 46px;
+  width: 200px;
+  color: teal;
+  width: 180px;
+}
+.header-contact{
+  float: right;
+  padding: 48px;
+  width: 230px;
+}
+.header-contact a{
+  text-decoration: none;
+  font-weight: 30px;
+  color: teal;
+}
+.header-contact a:hover{
+  text-decoration: underline;
+  color: tomato;
+}
+.div-clear{
+  clear: both;
+}
+hr{
+  width: 100%;
+  border-top: 3px solid black;
+  margin: 25px;
+}
+  
+/* -----------–-------
+personal cection
+-------------------*/
+#personal-cection{
+  
+ 
+}
+h3,h5{
+  color: teal;
+}
+.left-div{
+  float: left;
+  width: 200px;
+}
+.right-div{
+  float: right;
+  height: 100px;
+  width: 520px;
+} 
+#hr2{
+  border: 1px solid black;
+  width: 100%;
+  margin: 0 auto;
+}
+/*---------------------- 
+Work cection
+----------------------*/
+ #work-cection{
+
+ }
+.work-right-div{
+  padding: 20px;
+  float: right;
+  width: 500px;
+  
+}
+.work-left-div{
+ padding: 20px;
+ float: left;
+ width:  200px;
+}
+.hr3{
+  border: 1px solid black ;
+  width: 100%;
+  margin: 0 auto;
+}
+/*---------------
+ kay cection
+-----------------*/
+#kay-cection{
+  
+}
+.kay-left-div{
+  float: left;
+  padding: 20px;
+  width: 100px;
+}
+.kay-right-div{
+  float: right;
+  padding: 20px;
+  width: 500px;
+}
+/*-------------------------
+Education cection
+-------------------------*/
+#Education-cection{
+  
+}
+.ed-left-div{
+  float: left;
+  width: 100px;
+  padding: 20px;
+}
+.ed-right-div{
+  float: right;
+  width: 500px;
+  padding: 20px;
+}
+.ed-right-div-1{
+  float: left;
+  width: 250px;
+}
+.ed-right-div-2{
+  float: right;
+  width: 210px;
+}
+#Honors-and-Award-cection{
+  
+}
+.h-left-div{
+  float: left;
+  width: 200px;
+  padding: 20px;
+}
+.h-right-div{
+  float: right;
+  width: 500px;
+  padding: 20px;
+}
+/*---------------------------
+bottom cection start
+---------------------------*/
+.bottom-cection{
+ padding: 20px;
+ margin: 20px;
+ background-color: black;
+ color: wheat;
+ text-align: center;
+  
+}
+.bottom-cection a{
+  color: wheat;
+  text-decoration: none;
+  margin:15px;
+  font-size: 25px;
+}
+.bottom-cection p{
+  color: wheat;
+  padding-top:15px;
+  font-size: 20px;
+}
+.bottom-cection a:hover{
+  color: tomato;
+  background-color: yellow;
+  text-decoration: underline;
+}
